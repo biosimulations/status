@@ -9,6 +9,18 @@ sites:
     url: https://run.biosimulations.org
   - name: BioSimulators API
     url: https://api.biosimulators.org
+  - name: Ingress Loadbalancer
+    check: "tcp-ping"
+    url: 34.123.157.17
+    port: 80
+  - name: Storage Buckets
+    check: "tcp-ping"
+    url: 155.37.254.142
+    port: 80
+   - name: Backend
+    check: "tcp-ping"
+    url: biosim-submit-ext.cam.uchc.edu
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +35,6 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/biosimulations/biosimulations
-
+      href: https://github.com/biosimulations/status-monitor
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
