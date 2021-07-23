@@ -17,7 +17,7 @@ sites:
     check: "tcp-ping"
     url: 155.37.254.142
     port: 80
-   - name: Backend
+  - name: Backend
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
     port: 22
