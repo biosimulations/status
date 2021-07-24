@@ -21,9 +21,7 @@ sites:
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
     port: 22
-customStatusWebsitePackage: upptime/status-page
 status-website:
-  theme: dark
   themeUrl: status.biosiumulations.org/biosimulations-theme.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
