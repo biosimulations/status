@@ -21,7 +21,7 @@ sites:
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
     port: 22
-customStatusWebsitePackage: upptime/status-page@ec5807895d520d212dc485b0d25a1a143ed9cca1
+customStatusWebsitePackage: upptime/status-page#ec5807895d520d212dc485b0d25a1a143ed9cca1
 status-website:
   theme: dark
   themeUrl: status.biosiumulations.org/biosimulations-theme.css
