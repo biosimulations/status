@@ -21,9 +21,8 @@ sites:
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
     port: 22
-customStatusWebsitePackage: "@biosimulations/status-page"
 status-website:
-  themeUrl: https://status.biosimulations.org/biosimulations-theme.css
+  themeUrl: https://biosimulations.github.io/Biosimulations/stylesheets/status-theme.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.biosimulations.org
