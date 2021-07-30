@@ -18,6 +18,7 @@ sites:
   - name: Storage Buckets
     check: "tcp-ping"
     url: 155.37.254.142
+    maxResponseTime: 1000
     port: 80
   - name: Backend
     check: "tcp-ping"
