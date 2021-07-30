@@ -18,14 +18,13 @@ sites:
   - name: Storage Buckets
     check: "tcp-ping"
     url: 155.37.254.142
-    maxResponseTime: 1000
+    maxResponseTime: 500
     port: 80
   - name: Backend
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
     port: 22
 status-website:
-  themeUrl: https://biosimulations.github.io/Biosimulations/stylesheets/status-theme.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.biosimulations.org
