@@ -10,8 +10,7 @@ sites:
   - name: BioSimulators API
     url: https://api.biosimulators.org
   - name: Combine API
-    url: https://combine.api.biosimulations.org/ui
-    maxRedirects: 10
+    url: https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019
   - name: Ingress Loadbalancer
     check: "tcp-ping"
     url: 34.123.157.17
