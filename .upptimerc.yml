@@ -7,7 +7,7 @@ sites:
   - name: Biosimulations API
     url: https://api.biosimulations.org
   - name: runBioSimulations API
-    url: https://run.biosimulations.org
+    url: https://run.api.biosimulations.org
   - name: BioSimulators API
     url: https://api.biosimulators.org
   - name: Combine API
