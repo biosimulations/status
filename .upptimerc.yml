@@ -1,7 +1,8 @@
 # Change these first
 owner: biosimulations # Your GitHub organization or username, where this repository lives
 repo: status-monitor # The name of this repository
-
+assignees: # Users to assign downtime issues (optional)
+  - bilalshaikh42
 sites:
   - name: Biosimulations API
     url: https://api.biosimulations.org
@@ -16,10 +17,7 @@ sites:
     url: 34.123.157.17
     port: 80
   - name: Storage Buckets
-    check: "tcp-ping"
-    url: 155.37.254.142
-    maxResponseTime: 500
-    port: 80
+    url: https://files.biosimulations.org/s3/helloWorld.txt
   - name: Backend
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
