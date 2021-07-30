@@ -9,6 +9,8 @@ sites:
     url: https://run.biosimulations.org
   - name: BioSimulators API
     url: https://api.biosimulators.org
+  - name: Combine API
+    url: https://combine.api.biosimulations.org/ui
   - name: Ingress Loadbalancer
     check: "tcp-ping"
     url: 34.123.157.17
