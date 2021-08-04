@@ -40,8 +40,35 @@ status-website:
       href: https://run.biosimulations.org
     - title: BioSimulators
       href: https://biosimulators.org
-  themeUrl: https://raw.githubusercontent.com/biosimulations/status-monitor/master/assets/biosimulations-theme.css
+  # themeUrl: https://status.biosimulations.org/biosimulations-theme.css
   css: |
+    :root {
+      --body-background-color: #ffffff;
+      --body-text-color: rgba(0, 0, 0, 0.8);
+      --card-background-color: #f7f7f7;
+      --nav-background-color: #2196f3;
+      --nav-border-bottom-color: #ffffff;
+      --nav-current-border-bottom-color: #ffffff;
+      --card-border-color: rgba(0,0,0,.12);
+      --down-border-left-color: #f44336;
+      --down-background-color: #ffd0d2;
+      --degraded-border-left-color: #ff9800;
+      --up-border-left-color: #38cc00;
+      --tag-color: #ffffff;
+      --tag-up-background-color: #38cc00;
+      --tag-down-background-color: #f44336;
+      --tag-degraded-background-color: #ff9800;
+      --change-background-color: #ff9800;
+      --error-button-border-color: #1a46ad;
+      --error-button-background-color: #3867d6;
+      --error-button-color: #ffffff;
+      --submit-button-border-color: #1a46ad;
+      --submit-button-background-color: #3867d6;
+      --submit-button-color: #ffffff;
+      --graph-opacity: 1;
+      --graph-filter: hue-rotate(-64deg);
+    }
+
     body {
       font-family: Raleway, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
     }
