@@ -27,14 +27,68 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.biosimulations.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/biosimulations/Biosimulations/dev/libs/shared/assets/src/assets/images/biosimulations-logo/logo-github.png
-  name: BioSimulations
-  introTitle: "Status of BioSimulations Service"
-  introMessage: This is an automated monitoring page for BioSimulations services that can automatically create issues and send alerts. The site is built using  [upptime](https://github.com/upptime/upptime), a open source app.
+  logoUrl: https://raw.githubusercontent.com/biosimulations/Biosimulations/dev/libs/shared/assets/src/assets/images/biosimulations-logo/logo.svg
+  name: ""
+  introTitle: "BioSimulations/BioSimulators status monitor"
+  introMessage: This page summarizes the status of BioSimulations' and BioSimulators' services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/biosimulations/status-monitor
+    - title: BioSimulations
+      href: https://biosimulations.org
+    - title: runBioSimulations
+      href: https://run.biosimulations.org
+    - title: BioSimulators
+      href: https://biosimulators.org
+  themeUrl: https://raw.githubusercontent.com/biosimulations/status-monitor/master/assets/biosimulations-theme.css
+  css: |
+    body {
+      font-family: Raleway, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif !important;
+    }
+
+    @media (min-width: 400px) {
+      body {
+        font-size: 14px !important;
+      }
+    }
+
+    nav {
+      color: #ffffff;
+      font-weight: bold !important;
+    }
+
+    nav .container ul li a {
+      padding: 1.5rem 1rem !important;
+    }
+
+    .container {
+      max-width: 1000px !important;
+    }
+  links:
+    - rel: stylesheet
+      href: https://fonts.googleapis.com/css?family=Raleway
+  favicon: https://raw.githubusercontent.com/biosimulations/Biosimulations/dev/libs/shared/assets/src/assets/icons/favicon.ico
+  faviconSvg: https://raw.githubusercontent.com/biosimulations/Biosimulations/dev/libs/shared/assets/src/assets/icons/favicon.svg
+  metaTags:
+    - name: "description"
+      content: "Status monitor for BioSimulations and BioSimulators"
+    - name: "keywords"
+      content: "BioSimulations, BioSimulators, status, up, down, degraded"
+    - name: "language"
+      content: "EN"
+    - name: "copyright"
+      content: "Center for Reproducible Biomedical Modeling"
+    - name: "author"
+      content: "Center for Reproducible Biomedical Modeling, info@biosimulations.org"
+    - name: "reply-to"
+      content: "Center for Reproducible Biomedical Modeling, info@biosimulations.org"
+    - name: "url"
+      content: "https://status.biosimulations.org"
+    - name: "identifier-URL"
+      content: "https://status.biosimulations.org"
+    - name: "application-name"
+      content: "BioSimulations/BioSimulators status monitor"
+    - name: "theme-color"
+      content: "#2196f3"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
