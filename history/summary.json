@@ -22,19 +22,19 @@
     "url": "https://run.api.biosimulations.org",
     "icon": "https://favicons.githubusercontent.com/run.api.biosimulations.org",
     "slug": "run-bio-simulations-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 433,
-    "timeWeek": 396,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 383,
+    "timeDay": 332,
+    "timeWeek": 367,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 11
     }
   },
   {
