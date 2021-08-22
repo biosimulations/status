@@ -32,14 +32,10 @@ status-website:
   introTitle: "BioSimulations/BioSimulators status monitor"
   introMessage: This page summarizes the status of BioSimulations' and BioSimulators' services.
   navbar:
-    - title: Status
+    - title: View Status
       href: /
-    - title: BioSimulations
-      href: https://biosimulations.org
-    - title: runBioSimulations
-      href: https://run.biosimulations.org
-    - title: BioSimulators
-      href: https://biosimulators.org
+    - title: Edit Site
+      href: https://github.com/biosimulations/status-monitor
   # themeUrl: https://status.biosimulations.org/biosimulations-theme.css
   css: |
     :root {
