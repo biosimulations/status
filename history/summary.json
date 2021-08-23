@@ -78,19 +78,19 @@
     "url": "https://combine.api.biosimulations.org/run/simulators",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-simulation-api",
-    "status": "down",
-    "uptime": "48.17%",
-    "uptimeDay": "48.17%",
-    "uptimeWeek": "48.17%",
-    "uptimeMonth": "48.17%",
-    "uptimeYear": "48.17%",
-    "time": 62,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
+    "status": "up",
+    "uptime": "42.04%",
+    "uptimeDay": "42.04%",
+    "uptimeWeek": "42.04%",
+    "uptimeMonth": "42.04%",
+    "uptimeYear": "42.04%",
+    "time": 6282,
+    "timeDay": 6282,
+    "timeWeek": 6282,
+    "timeMonth": 6282,
+    "timeYear": 6282,
     "dailyMinutesDown": {
-      "2021-08-23": 106
+      "2021-08-23": 135
     }
   },
   {
