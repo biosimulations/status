@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 832,
     "timeDay": 408,
     "timeWeek": 2068,
     "timeMonth": 832,
     "timeYear": 832,
-    "dailyMinutesDown": {
-      "2021-08-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Combine Simulation API",
@@ -81,18 +79,19 @@
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-simulation-api",
     "status": "down",
-    "uptime": "3.54%",
+    "uptime": "3.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.54%",
-    "uptimeMonth": "3.54%",
-    "uptimeYear": "3.54%",
+    "uptimeWeek": "3.49%",
+    "uptimeMonth": "3.49%",
+    "uptimeYear": "3.49%",
     "time": 6282,
     "timeDay": 0,
     "timeWeek": 6282,
     "timeMonth": 6282,
     "timeYear": 6282,
     "dailyMinutesDown": {
-      "2021-08-25": 1393,
+      "2021-08-26": 1,
+      "2021-08-25": 1440,
       "2021-08-24": 1440,
       "2021-08-23": 407
     }
