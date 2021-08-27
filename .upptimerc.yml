@@ -12,11 +12,6 @@ sites:
     url: https://api.biosimulators.org
   - name: Combine API
     url: https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019
-  - name: Combine Simulation API 
-    url: https://combine.api.biosimulations.org/run/simulators
-    assignees:
-      - jonrkarr
-      - bilalshaikh42
   - name: Ingress Loadbalancer
     check: "tcp-ping"
     url: 34.123.157.17
