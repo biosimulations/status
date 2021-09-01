@@ -60,9 +60,9 @@
     "url": "https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1121,
     "timeMonth": 1026,
     "timeYear": 886,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   },
   {
     "name": "Ingress Loadbalancer",
