@@ -60,19 +60,19 @@
     "url": "https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 271,
-    "timeWeek": 1121,
-    "timeMonth": 1026,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 873,
+    "timeDay": 249,
+    "timeWeek": 1021,
+    "timeMonth": 1006,
+    "timeYear": 873,
     "dailyMinutesDown": {
-      "2021-09-01": 0
+      "2021-09-01": 11
     }
   },
   {
