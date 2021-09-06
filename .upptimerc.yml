@@ -28,7 +28,7 @@ status-website:
   cname: status.biosimulations.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/biosimulations/Biosimulations/dev/libs/shared/assets/src/assets/images/biosimulations-logo/logo.svg
-  name: ""
+  name: "BioSimulations Status"
   introTitle: "BioSimulations/BioSimulators status monitor"
   introMessage: This page summarizes the status of BioSimulations' and BioSimulators' services.
   navbar:
