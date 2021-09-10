@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/api.biosimulations.org",
     "slug": "biosimulations-api",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 374,
     "timeDay": 369,
     "timeWeek": 385,
     "timeMonth": 415,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2021-09-10": 10,
       "2021-08-23": 22
     }
   },
@@ -26,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/run.api.biosimulations.org",
     "slug": "run-bio-simulations-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 421,
     "timeWeek": 399,
     "timeMonth": 375,
     "timeYear": 382,
-    "dailyMinutesDown": {
-      "2021-09-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BioSimulators API",
@@ -46,38 +43,36 @@
     "icon": "https://favicons.githubusercontent.com/api.biosimulators.org",
     "slug": "bio-simulators-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 300,
     "timeWeek": 249,
     "timeMonth": 243,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2021-09-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Combine API",
     "url": "https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 788,
-    "timeDay": 403,
-    "timeWeek": 362,
-    "timeMonth": 1030,
-    "timeYear": 788,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1015,
+    "timeDay": 7739,
+    "timeWeek": 1997,
+    "timeMonth": 1390,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2021-09-10": 10
+      "2021-09-10": 21
     }
   },
   {
