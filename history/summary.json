@@ -4,10 +4,10 @@
     "url": "https://api.biosimulations.org",
     "icon": "https://favicons.githubusercontent.com/api.biosimulations.org",
     "slug": "biosimulations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 373,
@@ -16,6 +16,7 @@
     "timeMonth": 413,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2021-09-10": 2,
       "2021-08-23": 22
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://run.api.biosimulations.org",
     "icon": "https://favicons.githubusercontent.com/run.api.biosimulations.org",
     "slug": "run-bio-simulations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
@@ -35,17 +36,19 @@
     "timeWeek": 384,
     "timeMonth": 372,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 2
+    }
   },
   {
     "name": "BioSimulators API",
     "url": "https://api.biosimulators.org",
     "icon": "https://favicons.githubusercontent.com/api.biosimulators.org",
     "slug": "bio-simulators-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
@@ -53,17 +56,19 @@
     "timeWeek": 234,
     "timeMonth": 240,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 1
+    }
   },
   {
     "name": "Combine API",
     "url": "https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
@@ -71,7 +76,9 @@
     "timeWeek": 362,
     "timeMonth": 1030,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 1
+    }
   },
   {
     "name": "Ingress Loadbalancer",
