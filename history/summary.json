@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/api.biosimulations.org",
     "slug": "biosimulations-api",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 425,
     "timeDay": 793,
     "timeWeek": 589,
-    "timeMonth": 531,
+    "timeMonth": 536,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2021-09-10": 260,
@@ -34,7 +34,7 @@
     "time": 388,
     "timeDay": 752,
     "timeWeek": 526,
-    "timeMonth": 404,
+    "timeMonth": 405,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2021-09-10": 258
@@ -54,7 +54,7 @@
     "time": 223,
     "timeDay": 345,
     "timeWeek": 278,
-    "timeMonth": 251,
+    "timeMonth": 253,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2021-09-10": 146
@@ -65,18 +65,19 @@
     "url": "https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019",
     "icon": "https://favicons.githubusercontent.com/combine.api.biosimulations.org",
     "slug": "combine-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "99.38%",
     "time": 946,
     "timeDay": 848,
     "timeWeek": 601,
-    "timeMonth": 1415,
+    "timeMonth": 1445,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2021-09-22": 0,
       "2021-09-10": 479
     }
   },
@@ -94,7 +95,7 @@
     "time": 36,
     "timeDay": 53,
     "timeWeek": 48,
-    "timeMonth": 37,
+    "timeMonth": 38,
     "timeYear": 36,
     "dailyMinutesDown": {}
   },
@@ -104,15 +105,15 @@
     "icon": "https://favicons.githubusercontent.com/files.biosimulations.org",
     "slug": "storage-buckets",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 381,
     "timeDay": 926,
     "timeWeek": 587,
-    "timeMonth": 406,
+    "timeMonth": 410,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2021-07-30": 39
