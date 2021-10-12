@@ -84,9 +84,9 @@
     "url": "https://files.biosimulations.org/s3/helloWorld.txt",
     "icon": "https://favicons.githubusercontent.com/files.biosimulations.org",
     "slug": "storage-buckets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -96,6 +96,7 @@
     "timeMonth": 397,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2021-10-12": 0,
       "2021-07-30": 39
     }
   },
