@@ -1,7 +1,7 @@
 url: https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019
 status: up
 code: 200
-responseTime: 596
-lastUpdated: 2021-11-01T23:01:47.600Z
+responseTime: 177
+lastUpdated: 2021-11-02T23:01:44.776Z
 startTime: Fri Jul 30 2021 18:43:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
