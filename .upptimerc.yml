@@ -6,11 +6,11 @@ assignees: # Users to assign downtime issues (optional)
   - jonrkarr
 sites:
   - name: Biosimulations API
-    url: https://api.biosimulations.org
+    url: https://api.biosimulations.org/health/status
   - name: BioSimulators API
-    url: https://api.biosimulators.org
+    url: https://api.biosimulators.org/health
   - name: Combine API
-    url: https://combine.api.biosimulations.org/kisao/get-similar-algorithms?algorithms=KISAO_0000019
+    url: https://combine.api.biosimulations.org/health
   - name: Ingress Loadbalancer
     check: "tcp-ping"
     url: 34.123.157.17
