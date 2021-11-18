@@ -11,6 +11,10 @@ sites:
     url: https://api.biosimulators.org/health
   - name: Combine API
     url: https://combine.api.biosimulations.org/health
+  - name: Data Service
+    url: https://data.biosimulations.org
+    expectedStatusCodes:
+      - 404 # the root contains no data and returns a 404 if "up"
   - name: Ingress Loadbalancer
     check: "tcp-ping"
     url: 34.123.157.17
