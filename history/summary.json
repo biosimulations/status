@@ -4,10 +4,10 @@
     "url": "https://api.biosimulations.org/health/status",
     "icon": "https://favicons.githubusercontent.com/api.biosimulations.org",
     "slug": "biosimulations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 516,
@@ -16,6 +16,7 @@
     "timeMonth": 952,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2021-12-07": 1,
       "2021-09-10": 260,
       "2021-08-23": 22
     }
@@ -105,9 +106,9 @@
     "url": "https://files.biosimulations.org/s3/helloWorld.txt",
     "icon": "https://favicons.githubusercontent.com/files.biosimulations.org",
     "slug": "storage-buckets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -117,6 +118,7 @@
     "timeMonth": 308,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2021-12-07": 0,
       "2021-10-12": 20,
       "2021-07-30": 39
     }
