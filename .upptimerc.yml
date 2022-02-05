@@ -18,7 +18,7 @@ sites:
     url: 34.123.157.17
     port: 80
   - name: Storage Buckets
-    url: https://files.biosimulations.org/s3/helloWorld.txt
+    url: https://storage.googleapis.com/files.biosimulations.org/index.html
   - name: Backend
     check: "tcp-ping"
     url: biosim-submit-ext.cam.uchc.edu
