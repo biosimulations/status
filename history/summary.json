@@ -13,7 +13,7 @@
     "time": 976,
     "timeDay": 640,
     "timeWeek": 932,
-    "timeMonth": 811,
+    "timeMonth": 801,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2022-02-11": 213,
@@ -81,9 +81,9 @@
     "url": "https://data.biosimulations.org/info",
     "icon": "https://favicons.githubusercontent.com/data.biosimulations.org",
     "slug": "data-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.85%",
@@ -93,6 +93,7 @@
     "timeMonth": 324,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2022-02-11": 174,
       "2021-12-16": 30,
       "2021-11-18": 25
@@ -125,12 +126,12 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 521,
     "timeDay": 47,
     "timeWeek": 54,
-    "timeMonth": 846,
+    "timeMonth": 405,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2022-02-04": 24,
