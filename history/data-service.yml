@@ -1,7 +1,7 @@
 url: https://data.biosimulations.org/info
-status: up
-code: 200
-responseTime: 284
-lastUpdated: 2023-07-31T23:01:44.654Z
+status: down
+code: 503
+responseTime: 249
+lastUpdated: 2023-08-01T03:47:01.028Z
 startTime: Thu Nov 18 2021 00:06:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
