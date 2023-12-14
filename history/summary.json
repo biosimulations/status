@@ -110,9 +110,9 @@
     "url": "34.123.157.17",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ingress-loadbalancer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +121,9 @@
     "timeWeek": 33,
     "timeMonth": 37,
     "timeYear": 39,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "Storage Buckets",
