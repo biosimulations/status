@@ -27,10 +27,10 @@
     "url": "https://api.biosimulators.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.biosimulators.org.ico",
     "slug": "bio-simulators-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 259,
@@ -39,6 +39,7 @@
     "timeMonth": 277,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-02-21": 1,
       "2024-12-06": 18,
       "2024-07-25": 18
     }
@@ -48,10 +49,10 @@
     "url": "https://combine.api.biosimulations.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/combine.api.biosimulations.org.ico",
     "slug": "combine-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
@@ -59,7 +60,9 @@
     "timeWeek": 451,
     "timeMonth": 482,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 1
+    }
   },
   {
     "name": "Data Service",
@@ -67,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.biosimulations.org.ico",
     "slug": "data-service",
     "status": "down",
-    "uptime": "67.34%",
+    "uptime": "67.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 1,
+      "2025-02-21": 493,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
