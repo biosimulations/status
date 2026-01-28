@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 917,
-    "timeDay": 663,
-    "timeWeek": 809,
-    "timeMonth": 883,
-    "timeYear": 891,
+    "timeDay": 758,
+    "timeWeek": 796,
+    "timeMonth": 892,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-12-23": 20,
       "2025-12-21": 17,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 301,
+    "timeDay": 143,
     "timeWeek": 244,
-    "timeMonth": 294,
+    "timeMonth": 288,
     "timeYear": 276,
     "dailyMinutesDown": {}
   },
@@ -58,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 476,
-    "timeDay": 347,
-    "timeWeek": 409,
+    "timeDay": 410,
+    "timeWeek": 442,
     "timeMonth": 437,
-    "timeYear": 475,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-09-29": 124,
       "2025-07-23": 61,
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.biosimulations.org.ico",
     "slug": "data-service",
     "status": "down",
-    "uptime": "52.38%",
+    "uptime": "52.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 1,
+      "2026-01-28": 1,
+      "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -448,8 +449,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
-      "2025-01-29": 1440,
-      "2025-01-28": 1440
+      "2025-01-29": 1440
     }
   },
   {
@@ -464,8 +464,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 33,
-    "timeDay": 31,
-    "timeWeek": 31,
+    "timeDay": 22,
+    "timeWeek": 30,
     "timeMonth": 33,
     "timeYear": 33,
     "dailyMinutesDown": {}
@@ -482,10 +482,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 81,
-    "timeWeek": 154,
-    "timeMonth": 165,
-    "timeYear": 131,
+    "timeDay": 250,
+    "timeWeek": 178,
+    "timeMonth": 170,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -500,9 +500,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 43,
-    "timeDay": 15,
-    "timeWeek": 35,
-    "timeMonth": 39,
+    "timeDay": 36,
+    "timeWeek": 38,
+    "timeMonth": 40,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2025-09-29": 116,
