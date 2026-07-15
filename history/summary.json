@@ -4,11 +4,11 @@
     "url": "https://api.biosimulations.org/health/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.biosimulations.org.ico",
     "slug": "biosimulations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "97.52%",
     "time": 1008,
     "timeDay": 543,
@@ -38,7 +38,8 @@
       "2026-03-19": 1351,
       "2026-03-20": 944,
       "2026-06-01": 119,
-      "2026-06-03": 74
+      "2026-06-03": 74,
+      "2026-07-15": 7
     }
   },
   {
@@ -67,11 +68,11 @@
     "url": "https://combine.api.biosimulations.org/health",
     "icon": "https://icons.duckduckgo.com/ip3/combine.api.biosimulations.org.ico",
     "slug": "combine-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 465,
     "timeDay": 253,
@@ -80,7 +81,8 @@
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-07-23": 61,
-      "2025-09-29": 124
+      "2025-09-29": 124,
+      "2026-07-15": 6
     }
   },
   {
@@ -89,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.biosimulations.org.ico",
     "slug": "data-service",
     "status": "down",
-    "uptime": "47.18%",
+    "uptime": "47.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -100,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 14,
+      "2026-07-15": 979,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -509,11 +511,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backend",
     "status": "down",
-    "uptime": "93.88%",
+    "uptime": "93.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.72%",
+    "uptimeYear": "69.54%",
     "time": 41,
     "timeDay": 0,
     "timeWeek": 0,
@@ -522,7 +524,7 @@
     "dailyMinutesDown": {
       "2025-07-23": 59,
       "2025-09-29": 116,
-      "2026-07-15": 14,
+      "2026-07-15": 979,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
