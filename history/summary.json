@@ -4,16 +4,16 @@
     "url": "https://api.biosimulations.org/health/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.biosimulations.org.ico",
     "slug": "biosimulations-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "2.25%",
-    "uptimeWeek": "76.85%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "2.56%",
+    "uptimeWeek": "76.80%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "97.06%",
-    "time": 1121,
-    "timeDay": 8415,
-    "timeWeek": 4246,
-    "timeMonth": 2382,
+    "time": 1123,
+    "timeDay": 7633,
+    "timeWeek": 4095,
+    "timeMonth": 2359,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-12-08": 23,
@@ -39,7 +39,7 @@
       "2026-08-24": 169,
       "2026-10-01": 29,
       "2026-11-11": 1121,
-      "2026-11-12": 1213
+      "2026-11-12": 1217
     }
   },
   {
@@ -102,7 +102,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-12": 1245,
+      "2026-11-12": 1254,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 43,
     "dailyMinutesDown": {
-      "2026-11-12": 1245,
+      "2026-11-12": 1254,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
