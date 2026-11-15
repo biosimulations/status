@@ -1,7 +1,7 @@
 url: https://api.biosimulations.org/health/status
-status: down
-code: 503
-responseTime: 1578
-lastUpdated: 2026-11-15T04:16:54.267Z
+status: up
+code: 200
+responseTime: 39118
+lastUpdated: 2026-11-15T16:33:34.791Z
 startTime: 2021-07-23T23:11:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
